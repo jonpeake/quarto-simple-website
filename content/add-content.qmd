@@ -2,6 +2,8 @@
 title: Customize
 ---
 
+## Editing content to showcase GitHub Actions
+
 ## Edit and add your pages
 
 Edit the qmd or md files in the `content` folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).
