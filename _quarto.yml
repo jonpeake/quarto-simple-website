@@ -33,6 +33,7 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - test.qmd
       - href: content/add-content.qmd
         text: Add content
       - href: content/customizing.qmd
